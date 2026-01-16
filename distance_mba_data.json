@@ -611,7 +611,7 @@
           },
           {
             "question": "When will ATMA result release?",
-            "answer": "ATMA result is usually released within a week from the exam. ATMA July result 2025 was released on August 2, 2025. The August session result will be released on September 4, 2025. ATMA result for the June exam was released on June 7, 2025. The July session result will be released on August 2, 2025. The February 2025 exam result was released on February 22, 2025. Candidates who appeared for the ATMA July exam, can login on the official website and download the scorecards."
+            "answer": "ATMA result is usually released within a week from the exam. ATMA result 2026 for the February session exam will be released on February 28, 2026, at 5 PM. Candidates who appeared for the ATMA exam, can login on the official website and download the scorecards."
           },
           {
             "question": "What is the salary that a data analytics fresher can get in New Delhi?",
@@ -1193,14 +1193,40 @@
     "QA": {
       "QA_ALL": {
         "tag_name": "Data Analytics",
-        "description": "Get insights from 923 questions on Data Analytics, answered by students, alumni, and experts. You may also ask and answer any question you like about Data Analytics",
+        "description": "Get insights from 924 questions on Data Analytics, answered by students, alumni, and experts. You may also ask and answer any question you like about Data Analytics",
         "stats": {
-          "Questions": "923",
+          "Questions": "924",
           "Discussions": "0",
-          "Active Users": "28",
+          "Active Users": "27",
           "Followers": "402"
         },
         "questions": [
+          {
+            "question_text": "What is the admission deadline for MSc in Data Analytics programme at Dublin City University?",
+            "tags": [
+              {
+                "tag_name": "Data Analytics",
+                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
+              },
+              {
+                "tag_name": "Dublin City University",
+                "tag_url": "https://www.shiksha.com/ireland/universities/dublin-city-university"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Bhumika Vimal",
+                  "profile_url": "https://www.shiksha.com/userprofile/78590626"
+                },
+                "answer_text": "As per the official schedule for Dublin City University admissions , for the MSc in Data Analytics the students can apply in the September intake of the year. The admission deadlines for the same are generally in Jun or July during the same year . For this program, there is no other of intake at DCU. International students can apply via the official portal of this university.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 days ago"
+              }
+            ]
+          },
           {
             "question_text": "I am looking for a Post Graduate DEGREE course in DATA Science / DATA ANALYTICS related field in INDIA?",
             "tags": [
@@ -1221,32 +1247,6 @@
                   "profile_url": "https://www.shiksha.com/userprofile/98542552"
                 },
                 "answer_text": "aaft noida should be your first choice there are really good environment and the infrastucture for ai",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "a week ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What shall I study to become a data analyst? What are the opportunities and salary prospects in the same?",
-            "tags": [
-              {
-                "tag_name": "Data Analytics",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
-              },
-              {
-                "tag_name": "Big Data & Analytics",
-                "tag_url": "https://www.shiksha.com/tags/big-data-analytics-tdp-435798"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
-                },
-                "answer_text": "To become a Data Analyst, you should start by learning the right skills and tools step by step. What to Study: Learn basic mathematics and statistics (average, percentage, probability) Study Excel for data cleaning and simple analysis Learn SQL to work with databases Learn Python or R for data analysis Understand data visualization tools like Power BI or Tableau Join a structured course or training institute like Datamites for guided learning and projects Opportunities and Salary Prospects: Data Analysts are needed in IT, banking, healthcare, e-commerce, and startups Job roles include Junior Data Analyst, Business Analyst, and Reporting Analyst F",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "a week ago"
@@ -1280,15 +1280,15 @@
             ]
           },
           {
-            "question_text": "Which one should I study: Data Science or Data Analytics?",
+            "question_text": "In which institutes Data Science & artificial intelligence degree course is available?",
             "tags": [
               {
                 "tag_name": "Data Analytics",
                 "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
               },
               {
-                "tag_name": "Data Science",
-                "tag_url": "https://www.shiksha.com/tags/data-science-tdp-2285577"
+                "tag_name": "Science",
+                "tag_url": "https://www.shiksha.com/tags/science-tdp-18"
               }
             ],
             "followers": 0,
@@ -1298,85 +1298,7 @@
                   "name": "Neethu Nanjan",
                   "profile_url": "https://www.shiksha.com/userprofile/98861080"
                 },
-                "answer_text": "Which one should I study: Data Science or Data Analytics? - Datamites What each field is Data Analytics: focus on finding patterns, creating reports, dashboards, and helping business decisions using data. Data Science: deeper work including predicting future trends, machine learning, AI models and solving complex problems. Digital India Datamites offers courses in both, helping beginners learn tools like Excel, SQL, Python. Skills needed Data Analytics: Excel, SQL, Power BI/Tableau, basics of stats. Data Science: Python & R programming, machine learning, advanced statistics, big data. Job demand & growth Many companies ne",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 weeks ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Who earns more data scientist or data analyst?",
-            "tags": [
-              {
-                "tag_name": "Data Analytics",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
-              },
-              {
-                "tag_name": "Data Scientist",
-                "tag_url": "/careers/data-scientist-214"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
-                },
-                "answer_text": "Who Earns More, Data Scientist vs Data Analyst (2026) - Datamites Data Scientists Usually Earn More Around the world in 2025, data scientists generally get higher salaries than data analysts because their work is more advanced (machine learning, big data models, prediction systems). Typical Salary Ranges — Global (2025-2026) Data Analyst: ~$55,000 – $95,000 per year Data Scientist: ~$85,000 – $180,000 per year or more in top roles Data scientists usually earn significantly more, especially with experience. Typical Salary Ranges — India (2025-2026) Data Analyst: ₹4 – ₹15 LPA (entry to senior roles) Data Scientist: ₹8",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 weeks ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is it expensive to pursue Data Analytics in India?",
-            "tags": [
-              {
-                "tag_name": "Data Analytics",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
-              },
-              {
-                "tag_name": "Data Analytics in India",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-in-india-tdp-510664"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
-                },
-                "answer_text": "No, pursuing Data Analytics in India is not expensive. In late 2025, most certification courses cost between ₹25,000 to ₹1,50,000. This makes it affordable for many people. Online options like Google Data Analytics on Coursera or IBM courses are even cheaper, often ₹5,000 to ₹20,000. For example, Datamites offers a strong Certified Data Analyst course around ₹40,000 to ₹60,000 in India (with frequent discounts up to 65% off). Datamites covers key tools like Python, SQL, Tableau, and Power BI. It includes live projects, internships, and global certifications from IABAC and NASSCOM . Datamites provide discounts, EMI options, and",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 weeks ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the best data analytics courses?",
-            "tags": [
-              {
-                "tag_name": "Data Analytics",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
-              },
-              {
-                "tag_name": "Big Data & Analytics",
-                "tag_url": "https://www.shiksha.com/tags/big-data-analytics-tdp-435798"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
-                },
-                "answer_text": "What are the Best Data Analytics Courses - Datamites Datamites offers updated Data Analytics courses in 2026 with Python, SQL, Tableau, Power BI, hands-on projects, and global certification. DataMites now offers a 6‑month flagship “Certified Data Analyst” course that includes ~200+ hours of training, covering tools like Excel, SQL, Python, Tableau, Power BI along with data cleaning, EDA, visualization, and basic ML. Mode of delivery is flexible: you can choose online, offline (classroom) or hybrid — multiple centers exist across Indian cities including Bangalore (Marathahalli), Hyderabad (Madhapur), Chennai, Vizag, and m",
+                "answer_text": "1.Many institutes offer Data Science and AI degree courses today. 2. Top options include IITs, IIITs, and leading universities across India. 3. Private universities like Amity, VIT, and SRM also provide these programs. 4. Some global universities such as MIT and Oxford offer strong AI degrees. 5. Training institutes like Datamites help students build skills for these courses.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "a month ago"
@@ -1384,15 +1306,15 @@
             ]
           },
           {
-            "question_text": "Data analytics course fees.",
+            "question_text": "Can I learn a data analyst course in 1 month with a certificate? I am pursuing BCom and have a good communication skill.",
             "tags": [
               {
                 "tag_name": "Data Analytics",
                 "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
               },
               {
-                "tag_name": "Data Analytics Fees",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-fees-tdp-510494"
+                "tag_name": "B.Com",
+                "tag_url": "https://www.shiksha.com/tags/b-com-tdp-391"
               }
             ],
             "followers": 0,
@@ -1402,7 +1324,7 @@
                   "name": "Neethu Nanjan",
                   "profile_url": "https://www.shiksha.com/userprofile/98861080"
                 },
-                "answer_text": "Data Analytics Course Fees - Datamites. As a past student of Datamites, I found their Data Analytics course fees quite affordable. Typically, Datamites offers flexible pricing depending on certification levels and learning modes. Classroom (offline) Data Analytics course fee: ₹55,000 – ₹60,451 Online / hybrid / live‑virtual mode fee: ₹34,900 – ₹34,951",
+                "answer_text": "Yes, you can learn a basic data analyst course in 1 month and get a certificate. Datamites has simple beginner courses that you can finish in a short time. Your BCom background and good communication skills will help you understand the topics quickly. You may not become an expert in one month, but you can build a strong starting point. Keep learning and practicing to improve your skills further.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "a month ago"
@@ -1410,15 +1332,15 @@
             ]
           },
           {
-            "question_text": "What is the duration of data analyst course in Salem? What is its fees?",
+            "question_text": "Which course is best for a data analyst?",
             "tags": [
               {
                 "tag_name": "Data Analytics",
                 "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
               },
               {
-                "tag_name": "Salem",
-                "tag_url": "https://www.shiksha.com/tags/salem-tdp-386371"
+                "tag_name": "Computers & IT (Non-Engg)",
+                "tag_url": "https://www.shiksha.com/tags/computers-it-non-engg-tdp-25"
               }
             ],
             "followers": 0,
@@ -1428,10 +1350,88 @@
                   "name": "Neethu Nanjan",
                   "profile_url": "https://www.shiksha.com/userprofile/98861080"
                 },
-                "answer_text": "Data Analyst Course in Salem - Datamites As a past student of DataMites, here's the latest (2025) information for the Data-Analyst course at Salem Duration: 6 months ( 200+ learning hours). Fees (approx.): Live-Virtual (online + instructor-led): ₹ 55,451 Classroom (in-person): ₹ 60,451 Blended / Self-learning + Live Mentoring: ₹ 34,900 If you like — I can also check what's the next batch dates for Salem and share them here.",
+                "answer_text": "The best course for a data analyst is one that teaches SQL, Excel, Python, and data visualization in a simple way. Datamites offers beginner-friendly programs that cover all these skills with real projects and easy learning steps. They also provide good job guidance, making Datamites a strong choice for anyone starting a data analyst career.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "a month ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How long is the MSc Data Analytics course of QUB?",
+            "tags": [
+              {
+                "tag_name": "Data Analytics",
+                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
+              },
+              {
+                "tag_name": "Queen's University Belfast",
+                "tag_url": "https://www.shiksha.com/uk/universities/queen-s-university-belfast"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Rupali Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589944"
+                },
+                "answer_text": "The duration of Queen's University Belfast MSc Data Analytics course is one-year. Special highlights of this course include the Analytics in Action module and commitment of industry to offer real data for projects. Admission to this course can be done if the students have a 2:1 Honors degree in Computer Science, Mathematics, Statistics, Computer Applications or equivalent. An IELTS score of 6.5 is required.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "a month ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are there any data/business analytics or data Science courses in du?",
+            "tags": [
+              {
+                "tag_name": "Data Analytics",
+                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
+              },
+              {
+                "tag_name": "Delhi University (DU)",
+                "tag_url": "https://www.shiksha.com/university/delhi-university-du-24642"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Mamta Bankoti",
+                  "profile_url": "https://www.shiksha.com/userprofile/98616082"
+                },
+                "answer_text": "Yes, there are several data/analytics course in DU. Here are some of the best courses in DU. Data Analytics and Business Intelligence, offered by Shaheed sukhdev college of Business studies. Business Analytics (BMS) at Shaheed sukhdev college of business. Data Science, ML and Business Analytics offered by Hansraj College. Data Science/Big Data Analytics Specialization (DU SOL Online MCA) I hope this will help you.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 months ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Where can I do a Bachelor in data Science in India.",
+            "tags": [
+              {
+                "tag_name": "Data Analytics",
+                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
+              },
+              {
+                "tag_name": "Bachelors",
+                "tag_url": "https://www.shiksha.com/tags/bachelors-tdp-444"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Gaurav Kumar",
+                  "profile_url": "https://www.shiksha.com/userprofile/98553038"
+                },
+                "answer_text": "If you are considering pursuing a Bachelor's degree in Data Science in India, the AAFT in Noida offers a comprehensive programme that combines theoretical knowledge with practical skills, preparing students for a successful career in the rapidly growing field of data science.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 months ago"
               }
             ]
           }
