@@ -1193,14 +1193,40 @@
     "QA": {
       "QA_ALL": {
         "tag_name": "Data Analytics",
-        "description": "Get insights from 924 questions on Data Analytics, answered by students, alumni, and experts. You may also ask and answer any question you like about Data Analytics",
+        "description": "Get insights from 925 questions on Data Analytics, answered by students, alumni, and experts. You may also ask and answer any question you like about Data Analytics",
         "stats": {
-          "Questions": "924",
+          "Questions": "925",
           "Discussions": "0",
           "Active Users": "27",
           "Followers": "402"
         },
         "questions": [
+          {
+            "question_text": "hi we are providing online education in data Science and data analytics we want to register on your portal",
+            "tags": [
+              {
+                "tag_name": "Data Analytics",
+                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
+              },
+              {
+                "tag_name": "E learning",
+                "tag_url": "https://www.shiksha.com/tags/e-learning-tdp-441"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "14 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "What is the admission deadline for MSc in Data Analytics programme at Dublin City University?",
             "tags": [
@@ -1223,7 +1249,7 @@
                 "answer_text": "As per the official schedule for Dublin City University admissions , for the MSc in Data Analytics the students can apply in the September intake of the year. The admission deadlines for the same are generally in Jun or July during the same year . For this program, there is no other of intake at DCU. International students can apply via the official portal of this university.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "5 days ago"
               }
             ]
           },
@@ -1275,7 +1301,7 @@
                 "answer_text": "Many Universities & colleges are offering Data Science courses one of best institute is AAFT Noida which offers Data Science BSc, MSc & Diploma courses.  Lot of Job options are available like Data Analyst, Data Scientist etc.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 weeks ago"
+                "posted_time": "3 weeks ago"
               }
             ]
           },
@@ -1406,32 +1432,6 @@
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "2 months ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Where can I do a Bachelor in data Science in India.",
-            "tags": [
-              {
-                "tag_name": "Data Analytics",
-                "tag_url": "https://www.shiksha.com/tags/data-analytics-tdp-510485"
-              },
-              {
-                "tag_name": "Bachelors",
-                "tag_url": "https://www.shiksha.com/tags/bachelors-tdp-444"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Gaurav Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/98553038"
-                },
-                "answer_text": "If you are considering pursuing a Bachelor's degree in Data Science in India, the AAFT in Noida offers a comprehensive programme that combines theoretical knowledge with practical skills, preparing students for a successful career in the rapidly growing field of data science.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 months ago"
               }
             ]
           }
